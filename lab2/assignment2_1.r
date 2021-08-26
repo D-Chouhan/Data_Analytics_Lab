@@ -1,5 +1,5 @@
 ## Question 1(a) ####
-
+# load/read dataset
 dataframe <- read.csv("E:/IIITG (3rd_Sem)/Data Analytics (Lab)/Assignment 2/Dataset.csv")
 View(dataframe)
 
